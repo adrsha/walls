@@ -1,0 +1,2 @@
+warn: server.c:72: client FD=7: terminal still alive
+warn: server.c:72: client FD=7: terminal still alive
